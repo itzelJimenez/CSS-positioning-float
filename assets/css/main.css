@@ -1,12 +1,18 @@
 body{
 	margin: 10%;
+	background-color: white;
 }
 h2{
 	font-size: 200%;
-	padding: 5px;
+	width: 100%;
+	margin-left: 0%;
+}
+.titulo{
+	height: 10px;
+	width: 90%;
 }
 .line{
-	width: 20%;
+	width: 26%;
 	height: 2px;
 	margin-top:1%;
 	background-color: black;
@@ -19,6 +25,7 @@ h2{
 }
 .contenedor{
 	margin-top: 5%;
+	margin-left: 10%;
 	width: 80%;
 	height: 80%;
 }
@@ -37,10 +44,38 @@ h2{
 .overFloat{
 	overflow: hidden;
 }
-#contenedor >span{
-	font-size: 50%;
-	color: white;
+span{
+	font-size: 60%;
+	color: black;
 	font-weight: 700;
-	margin-top: 22%;
-	margin-left: -15%;
+	margin-top: 0%;
+	margin-left: 20%;
+}
+.redondeado{
+	border-radius: 50%;
+}
+#contenedor > div{
+	width: 25%;
+	margin: 2% 3%;
+}
+.color1{
+	background-color: #E04531;
+}
+.color2{
+	background-color: #D56E27;
+}
+.color3{
+	background-color: #BE7A4B;
+}		
+.color4{
+	background-color: #BE474B;
+}
+.color5{
+	background-color: #D0E224;
+}
+.color6{
+	background-color: #B5C257;
+}
+.dorado{
+	background-color: #929E19;
 }
