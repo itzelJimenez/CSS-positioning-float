@@ -26,7 +26,7 @@ h2{
 	border: solid 1px black;
 }
 .marg{
-	margin: 2%;
+	margin: 1%;
 }
 .relative{
 	position: relative;
@@ -34,9 +34,13 @@ h2{
 .floatIzq{
 	float: left;
 }
+.overFloat{
+	overflow: hidden;
+}
 #contenedor >span{
+	font-size: 50%;
 	color: white;
 	font-weight: 700;
-	margin-top: 25%;
+	margin-top: 22%;
 	margin-left: -15%;
 }
