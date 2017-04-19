@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+	margin: 10%;
+}
+
+.line{
+	width: 10%;
+	height: 2px;
+	margin-top:1%;
+	background-color: black;
+	display: block;
+}
+.contenedor{
+	margin-top: 5%;
+}
+.borde{
+	border: solid 1px black;
+}
+.tamaño{
+	width: 80%;
+	height: 80%;
+}
+.absolute{
+	position: absolute;
+}
+#rojo{
+	background-color: #CB4335;
+}
+#azul{
+	background-color: #2B7DB9;
+}
+#verde{
+	background-color: #B7D84B;
+}
+#amarillo{
+	background-color: #FAFF16;
+}
+#morado{
+	background-color: #832E71;
+}
+#negra{
+	background-color: black;
+	width: 25%;
+	height: 25%;
+}
