@@ -79,3 +79,7 @@ span{
 .dorado{
 	background-color: #929E19;
 }
+ img:hover{
+	transform: scale(1.5);
+	background-color: white;
+}
